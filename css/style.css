@@ -1,0 +1,198 @@
+*{
+
+margin: 0px ;
+
+
+}
+
+
+.habro{
+    width: 100% ;
+    height: 120px ;
+    background-color: #ffc716;
+    display: flex;
+
+    }
+    .html{
+        margin-left: 100px ;
+    }
+    .header{
+        width: 60px ;
+    }
+    .headrul    li{
+margin-left: 50px ;
+      display: inline;
+color: white;
+font-size: 24px ;
+    }
+    .headrul{
+
+        margin-top: 31px ;   
+    }
+    .dorm{
+background-color: rgb(238, 25, 25);
+color: rgb(255, 255, 255);
+border-radius: 37px ;
+width: 160px ;
+height: 40px ;
+margin-top: 29px ;
+margin-left: 50px ;
+border: none ;
+font-size: 20px ;
+    }
+
+    .we-sing{
+        display:flex;
+width: 100% ;
+height: 500px ;
+background-image: url(../image/Untitled.jpg) ;
+/* background-size: cover ; */
+background-repeat: no-repeat ;
+background-position: center ;
+    }
+    .wesing{
+color: white;
+font-size: 90px ;
+margin-top: 130px ;
+    }
+.parent5{
+    display:flex;
+background-color: rgb(255, 255, 255) ;
+width: 100% ;
+height: 700px;
+text-align: center;
+justify-content: space-evenly ;
+}
+
+
+.arabkid{
+text-align: center;
+color: #3c96af;
+margin-top: 150px ;
+padding-bottom: 40px ;
+}
+.youtube2{
+border-radius: 30px ;
+
+}
+.mobile2{
+    border-radius: 30px ;
+
+}
+.book2{
+    border-radius: 30px ;
+
+}
+
+
+
+
+
+
+
+.youtube3{
+    color: #3c96af;
+}
+.yt3{
+color: #1b6174;
+
+}
+.you3{
+    border-radius: 30px ;
+    background-color: rgb(238, 25, 25);
+    color: white ;
+    width: 167px ;
+    height: 50px ;
+    margin-top: 10px ;
+    border: none ;
+}
+
+
+.book3{
+    color: #3c96af;
+}
+.bo3{
+    color: #1b6174;
+}
+.boc3{
+    border-radius: 30px ;
+    background-color: rgb(238, 25, 25);
+    color: white ;
+    width: 167px ;
+    height: 50px ;
+    margin-top: 10px ;
+    border: none ;
+}
+
+.mobile3{
+    color: #3c96af;
+}
+.mb3{
+    color: #1b6174;
+}
+.mob3{
+    border-radius: 30px ;
+    background-color: rgb(238, 25, 25);
+    color: white ;
+    width: 167px ;
+    height: 50px ;
+    margin-top: 10px ;
+    border: none ;
+}
+.start{
+background-image: url(../image/eeb8914b-fe9d-4444-8028-b2a5321a49fe.jpg) ;
+width: 100%;
+height: 250px;
+background-repeat: no-repeat;
+background-size: cover ;
+background-position: top ;
+}
+.story3{
+text-align: center;
+color: #1b6174;
+padding-top: 100px ;
+}
+.story4{
+text-align: center;
+color: #1b6174;
+margin-top: 40px;
+}
+.gard{
+background-color: aqua;
+width: 100% ;
+height: 700px ;
+display: flex;
+}
+.type{
+color: #8dc540;
+text-align: center;
+margin-top: 50px;
+padding-bottom: 40px ;
+}
+.card1{
+width: 300px ;
+height: 300px ;
+background-color: #ab7d90 ;
+border-radius: 50px ;
+margin-left: 70px ;
+margin-top: 60px ;
+}
+.cards2{
+margin-left: 30px ;
+margin-top: 80px ;
+color: white;
+
+}
+.cards1{
+    color: white;
+    margin-left: 40px ;
+    margin-top: 30px ;
+}
+.dmbc{
+color: rgb(0, 0, 0);
+background-color: blue;
+}
+.html19{
+    color: white;
+
+}
